@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://oppahero.github.io/product-preview-card-component/](https://oppahero.github.io/product-preview-card-component/)
+- Live Site URL: [url](https://flashdaniel.github.io/closing-message-sample/)
 
 ## My process
 
